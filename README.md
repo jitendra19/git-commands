@@ -51,7 +51,7 @@ git commands:
 
 9. To push the current branch and set the remote as upstream, use
 
-	--> git push --set-upstream origin feature/MCPC_00000--
+	--> git push --set-upstream origin feature/MCPC_00000
 
 10. to change branch name locally 
 	
@@ -75,6 +75,8 @@ git commands:
 
   --> git diff-tree --no-commit-id --name-only -r <commit_number>
 
+
+-----------------------------------------------------------------
 
 Command promt command:
 
